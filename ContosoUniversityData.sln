@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContosoUniversityData", "ContosoUniversityData\ContosoUniversityData.sqlproj", "{BB2906A1-3490-41AE-91E6-C34A1986D285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2906A1-3490-41AE-91E6-C34A1986D285}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDCA780-17DA-4E87-9826-8CEC54EA2EE9}
+	EndGlobalSection
+EndGlobal
